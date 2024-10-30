@@ -1,0 +1,180 @@
+# Copyright (C) 2015 jQuery Cookie Law
+# This file is distributed under the same license as the jQuery Cookie Law package.
+msgid ""
+msgstr ""
+"Project-Id-Version: jQuery Cookie Law 1.0.0 beta\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/jquery-cookie-"
+"law\n"
+"POT-Creation-Date: 2016-09-20 06:43:33+00:00\n"
+"PO-Revision-Date: 2016-09-20 08:45+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: jquery-cookie-law.php:80
+msgid "Law info"
+msgstr "Info sulla legge"
+
+#: jquery-cookie-law.php:81
+msgid "Here"
+msgstr "Qui"
+
+#: jquery-cookie-law.php:81
+msgid "the information from European Commission"
+msgstr "le informazioni dalla Commissione Europea"
+
+#: jquery-cookie-law.php:85
+msgid "Other Resources"
+msgstr "Altre Risorse"
+
+#: jquery-cookie-law.php:85
+msgid "Cookie Consent Official Site"
+msgstr "Sito Ufficiale Cookie Consent"
+
+#: jquery-cookie-law.php:85
+msgid "ChatMe Site"
+msgstr "Sito ChatMe"
+
+#: jquery-cookie-law.php:90
+msgid "ChatMe Cookie Consent Options"
+msgstr "ChatMe Cookie Consent Opzioni"
+
+#. #-#-#-#-#  plugin.pot (ChatMe Cookie Consent 2.0.0)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: jquery-cookie-law.php:90 jquery-cookie-law.php:111
+msgid "ChatMe Cookie Consent"
+msgstr "ChatMe Cookie Consent"
+
+#: jquery-cookie-law.php:107
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Non hai i permessi per accedere a questa pagina"
+
+#: jquery-cookie-law.php:116
+msgid "Message"
+msgstr "Messaggio"
+
+#: jquery-cookie-law.php:119
+msgid "The message show in cookie bar."
+msgstr "Il messaggio mostrato dalla Cookie Bar."
+
+#: jquery-cookie-law.php:123
+msgid "Text Accept Button"
+msgstr "Testo del bottone Accetta"
+
+#: jquery-cookie-law.php:129
+msgid "More Information Link"
+msgstr "Link maggiori informazioni"
+
+#: jquery-cookie-law.php:132
+msgid "The More Information Button Text."
+msgstr "Il testo del buttone Maggiori Informazioni."
+
+#: jquery-cookie-law.php:134
+msgid "Select page"
+msgstr "Seleziona Pagina"
+
+#: jquery-cookie-law.php:145
+msgid "Same Window"
+msgstr "Stessa Finestra"
+
+#: jquery-cookie-law.php:146
+msgid "New Window"
+msgstr "Nuova Finestra"
+
+#: jquery-cookie-law.php:148
+msgid "Select the page of Cookies/Privacy Policy."
+msgstr "Seleziona la pagina della Policy Cookie/Privacy"
+
+#: jquery-cookie-law.php:152
+msgid "Expire Days"
+msgstr "Giorni di validità"
+
+#: jquery-cookie-law.php:155
+msgid ""
+"After these days the bar is show again and the user must accept again. Min. "
+"90 days, default 365 days."
+msgstr ""
+"Dopo questi giorni sarà mostrata nuovamente la barra e l'utente dovrà "
+"accettare nuovamente. Min. 90 giorni, default 365 giorni."
+
+#: jquery-cookie-law.php:160
+msgid "Theme"
+msgstr "Tema"
+
+#: jquery-cookie-law.php:163
+msgid "Light Top"
+msgstr "Light Alto"
+
+#: jquery-cookie-law.php:164
+msgid "Light Floating"
+msgstr "Light Floating"
+
+#: jquery-cookie-law.php:165
+msgid "Light Bottom"
+msgstr "Light Basso"
+
+#: jquery-cookie-law.php:166
+msgid "Dark Top"
+msgstr "Dark Alto"
+
+#: jquery-cookie-law.php:167
+msgid "Dark Floating"
+msgstr "Dark Floating"
+
+#: jquery-cookie-law.php:168
+msgid "Dark Bottom"
+msgstr "Dark Basso"
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.chatme.im/"
+msgstr "http://www.chatme.im/"
+
+#. Description of the plugin/theme
+msgid "This plugin add the javascript code for Cookie Law"
+msgstr "Questo Plugin aggiunge il codice per la Cookie Law Bar"
+
+#. Author of the plugin/theme
+msgid "camaran"
+msgstr "camaran"
+
+#. Author URI of the plugin/theme
+msgid "http://www.chatme.im"
+msgstr "http://www.chatme.im"
+
+#~ msgid "Cookie Law"
+#~ msgstr "Cookie Law"
+
+#~ msgid "jQuery Cookie Law"
+#~ msgstr "jQuery Cookie Law"
+
+#~ msgid "Enable More Information Button"
+#~ msgstr "Abilita il bottone Maggiori Informazioni"
+
+#~ msgid "Position Top"
+#~ msgstr "Posizionato in alto"
+
+#~ msgid "Yes"
+#~ msgstr "Si"
+
+#~ msgid "Force Show"
+#~ msgstr "Forza la visualizzazione"
+
+#~ msgid "For debug"
+#~ msgstr "Per debug"
+
+#~ msgid "Disable Cookies Button"
+#~ msgstr "Bottone Rifiuta Cookies"
+
+#~ msgid "Disable Cookies Button Text"
+#~ msgstr "Testo del bottone di rifiuto dei Cookies"
+
+#~ msgid "Text Policy Button"
+#~ msgstr "Testo del bottone della Policy"
+
+#~ msgid "URL Policy Page"
+#~ msgstr "Pagina della Policy"

@@ -1,0 +1,142 @@
+# Copyright (C) 2016 ChatMe Cookie Consent
+# This file is distributed under the same license as the ChatMe Cookie Consent package.
+msgid ""
+msgstr ""
+"Project-Id-Version: ChatMe Cookie Consent 2.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/jquery-cookie-"
+"law\n"
+"POT-Creation-Date: 2016-09-20 06:43:33+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: jquery-cookie-law.php:80
+msgid "Law info"
+msgstr ""
+
+#: jquery-cookie-law.php:81
+msgid "Here"
+msgstr ""
+
+#: jquery-cookie-law.php:81
+msgid "the information from European Commission"
+msgstr ""
+
+#: jquery-cookie-law.php:85
+msgid "Other Resources"
+msgstr ""
+
+#: jquery-cookie-law.php:85
+msgid "Cookie Consent Official Site"
+msgstr ""
+
+#: jquery-cookie-law.php:85
+msgid "ChatMe Site"
+msgstr ""
+
+#: jquery-cookie-law.php:90
+msgid "ChatMe Cookie Consent Options"
+msgstr ""
+
+#. #-#-#-#-#  plugin.pot (ChatMe Cookie Consent 2.0.0)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: jquery-cookie-law.php:90 jquery-cookie-law.php:111
+msgid "ChatMe Cookie Consent"
+msgstr ""
+
+#: jquery-cookie-law.php:107
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: jquery-cookie-law.php:116
+msgid "Message"
+msgstr ""
+
+#: jquery-cookie-law.php:119
+msgid "The message show in cookie bar."
+msgstr ""
+
+#: jquery-cookie-law.php:123
+msgid "Text Accept Button"
+msgstr ""
+
+#: jquery-cookie-law.php:129
+msgid "More Information Link"
+msgstr ""
+
+#: jquery-cookie-law.php:132
+msgid "The More Information Button Text."
+msgstr ""
+
+#: jquery-cookie-law.php:134
+msgid "Select page"
+msgstr ""
+
+#: jquery-cookie-law.php:145
+msgid "Same Window"
+msgstr ""
+
+#: jquery-cookie-law.php:146
+msgid "New Window"
+msgstr ""
+
+#: jquery-cookie-law.php:148
+msgid "Select the page of Cookies/Privacy Policy."
+msgstr ""
+
+#: jquery-cookie-law.php:152
+msgid "Expire Days"
+msgstr ""
+
+#: jquery-cookie-law.php:155
+msgid ""
+"After these days the bar is show again and the user must accept again. Min. "
+"90 days, default 365 days."
+msgstr ""
+
+#: jquery-cookie-law.php:160
+msgid "Theme"
+msgstr ""
+
+#: jquery-cookie-law.php:163
+msgid "Light Top"
+msgstr ""
+
+#: jquery-cookie-law.php:164
+msgid "Light Floating"
+msgstr ""
+
+#: jquery-cookie-law.php:165
+msgid "Light Bottom"
+msgstr ""
+
+#: jquery-cookie-law.php:166
+msgid "Dark Top"
+msgstr ""
+
+#: jquery-cookie-law.php:167
+msgid "Dark Floating"
+msgstr ""
+
+#: jquery-cookie-law.php:168
+msgid "Dark Bottom"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.chatme.im/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "This plugin add the javascript code for Cookie Law"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "camaran"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.chatme.im"
+msgstr ""
